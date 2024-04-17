@@ -1,0 +1,1051 @@
+fileFormatVersion: 2
+guid: 1aa5fdf3fa551f5459a08e442fb7415a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109.71429
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9137384495c9f6148a0577fc394769fe
+      internalID: -1957762073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 109.71429
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169efc19f95c0c54e8bf3e21b427593d
+      internalID: -98918465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 109.71429
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff67e08303f001149a633141ca8f5471
+      internalID: 1193535322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 109.71429
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a1516ba78898c4a981ac5b2e195c64
+      internalID: -3436649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 109.71429
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458e132fd2476a84d8652866762c32e9
+      internalID: -1193980897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 109.71429
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ba9b4d5a0c8e94cbceba5a3e925662
+      internalID: -669225521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91.71429
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e7e75b9e0ff684688b6387f1351b80
+      internalID: -1244939569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 91.71429
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75aa2dd94691906438401efddc19742c
+      internalID: 45955213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 91.71429
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb314c013137094ebe82699cbc5afb9
+      internalID: -1644360247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 91.71429
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661e07e4f76940a4a87ec435c600182b
+      internalID: -1745485625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 91.71429
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a647bcd15cf1c9479d147ec68c5f301
+      internalID: 1558578796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 91.71429
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf1330cf452037478af5f13386a23a6
+      internalID: -1858990095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73.71429
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf473311e9f40cd44b9c44d2c5b965f2
+      internalID: -1538584230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 73.71429
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9307870e3aa84b2469679b4e702b1453
+      internalID: 447371455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 73.71429
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ee486ea074e6542b40ab08e4e0f946
+      internalID: 642068064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 73.71429
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3f6104aa3cf534387790a787a8d6fa
+      internalID: -561641096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 73.71429
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67eda444f7aa2c44d942db6465d9e8c0
+      internalID: -1679531002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 73.71429
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5480d14ab87d648832bf52ed21cb7b
+      internalID: -973359569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55.714287
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f63d38424c9e5c46a80df0cf1af9e0f
+      internalID: 2111499709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 55.714287
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10692a34cad78845956088b7dcf445a
+      internalID: -695803688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 55.714287
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04cc44fca9a3e0b42840370e6900430c
+      internalID: 990710470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 55.714287
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa9776c098df19449e15b50e0fa8f81
+      internalID: 1985448406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 55.714287
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce12e4bd549c164c8933c998d388622
+      internalID: 1315650114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 55.714287
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89aa6e3fddc793c4d8d8e28f3d3a20b9
+      internalID: 888581103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37.714287
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1413bcb4436a72c4fb8fe81c7c8c1fcd
+      internalID: 1513211669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 37.714287
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c693faf52a66044286bf6d8081688b1
+      internalID: -1125045896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 37.714287
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c74e63108fae0a459a4d9e0e857ebb9
+      internalID: 740737203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 37.714287
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1f441ee1545bd46a54f5afabc893e5
+      internalID: -1683114033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 37.714287
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93082a01b283874c8ea52e4566335d3
+      internalID: 855875291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 37.714287
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b77a25f404d374e820467f30c8de3b
+      internalID: -1336609049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19.714285
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41e427605fa1c04fb0ed3d4be29598d
+      internalID: -1820550666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 19.714285
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a83daf0c46bc242ac88504ccfad940
+      internalID: -1775465231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 19.714285
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcd4628dbe5f924582fa2365da01bb7
+      internalID: -1052114708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 19.714285
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2d9b3ac9de1e54cbfe12d64411f199
+      internalID: 504825068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 19.714285
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36805a81f800934aa45ef93fed2dc8e
+      internalID: -215087357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 19.714285
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba990ae7ae808f947ae3cb69f36b1de7
+      internalID: -832376367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.7142849
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fed9d448633d3d4e8de0d711673dbb7
+      internalID: 849689031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1.7142849
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd8f94a6a790ed42aff6b40a7ee5a66
+      internalID: -1316801193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1.7142849
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fbe23d19f224c43a4a191aafec63a4
+      internalID: -1597014908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1.7142849
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268fc2e5507664142a0409fb258611f2
+      internalID: -448597169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1.7142849
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2de2fae909ba68439cc0ca6765ef178
+      internalID: -315261488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors AutoTile Dark Grass_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1.7142849
+        width: 16
+        height: 18.285715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c836c72294021cf4aafca104b4eab7f6
+      internalID: -1770195724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Outdoors AutoTile Dark Grass_0: -1957762073
+      Outdoors AutoTile Dark Grass_1: -98918465
+      Outdoors AutoTile Dark Grass_10: 1558578796
+      Outdoors AutoTile Dark Grass_11: -1858990095
+      Outdoors AutoTile Dark Grass_12: -1538584230
+      Outdoors AutoTile Dark Grass_13: 447371455
+      Outdoors AutoTile Dark Grass_14: 642068064
+      Outdoors AutoTile Dark Grass_15: -561641096
+      Outdoors AutoTile Dark Grass_16: -1679531002
+      Outdoors AutoTile Dark Grass_17: -973359569
+      Outdoors AutoTile Dark Grass_18: 2111499709
+      Outdoors AutoTile Dark Grass_19: -695803688
+      Outdoors AutoTile Dark Grass_2: 1193535322
+      Outdoors AutoTile Dark Grass_20: 990710470
+      Outdoors AutoTile Dark Grass_21: 1985448406
+      Outdoors AutoTile Dark Grass_22: 1315650114
+      Outdoors AutoTile Dark Grass_23: 888581103
+      Outdoors AutoTile Dark Grass_24: 1513211669
+      Outdoors AutoTile Dark Grass_25: -1125045896
+      Outdoors AutoTile Dark Grass_26: 740737203
+      Outdoors AutoTile Dark Grass_27: -1683114033
+      Outdoors AutoTile Dark Grass_28: 855875291
+      Outdoors AutoTile Dark Grass_29: -1336609049
+      Outdoors AutoTile Dark Grass_3: -3436649
+      Outdoors AutoTile Dark Grass_30: -1820550666
+      Outdoors AutoTile Dark Grass_31: -1775465231
+      Outdoors AutoTile Dark Grass_32: -1052114708
+      Outdoors AutoTile Dark Grass_33: 504825068
+      Outdoors AutoTile Dark Grass_34: -215087357
+      Outdoors AutoTile Dark Grass_35: -832376367
+      Outdoors AutoTile Dark Grass_36: 849689031
+      Outdoors AutoTile Dark Grass_37: -1316801193
+      Outdoors AutoTile Dark Grass_38: -1597014908
+      Outdoors AutoTile Dark Grass_39: -448597169
+      Outdoors AutoTile Dark Grass_4: -1193980897
+      Outdoors AutoTile Dark Grass_40: -315261488
+      Outdoors AutoTile Dark Grass_41: -1770195724
+      Outdoors AutoTile Dark Grass_5: -669225521
+      Outdoors AutoTile Dark Grass_6: -1244939569
+      Outdoors AutoTile Dark Grass_7: 45955213
+      Outdoors AutoTile Dark Grass_8: -1644360247
+      Outdoors AutoTile Dark Grass_9: -1745485625
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
