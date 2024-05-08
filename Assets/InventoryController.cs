@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class InventoryManaager : MonoBehaviour
+public class InventoryController : MonoBehaviour
 {
     public GameObject Inventory;
     public bool isActivated;
@@ -19,6 +19,8 @@ public class InventoryManaager : MonoBehaviour
             Inventory.SetActive(false);
             isActivated = false;
         }
+
+        // else if eftersom man kan aktivera båda annars samtidigt
 
         else if (Input.GetButtonDown("Inventory") && !isActivated)
         {

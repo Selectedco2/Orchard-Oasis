@@ -4,7 +4,16 @@ using UnityEngine;
 
 public class ItemControl : MonoBehaviour
 {
-    // Start is called before the first frame update
+    [SerializeField]
+    public string itemName;
+
+    [SerializeField]
+    public int amount;
+
+    InventoryController inventoryController;
+    
+    [SerializeField]
+    public Sprite image;
     void Start()
     {
         
