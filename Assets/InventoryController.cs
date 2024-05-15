@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.Mathematics;
 using UnityEngine;
+using UnityEngine.Rendering;
 
 public class InventoryController : MonoBehaviour
 {
@@ -27,6 +29,11 @@ public class InventoryController : MonoBehaviour
             Inventory.SetActive(true);
             isActivated = true;
         }
+    
+    }
 
+    public void AddItem(string itemName, int amount, Sprite image)
+    {
+        Debug.Log("itemname = " + itemName + itemName + "amount = " + amount + "image = " + image);
     }
 }

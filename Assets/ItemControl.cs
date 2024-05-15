@@ -5,23 +5,28 @@ using UnityEngine;
 public class ItemControl : MonoBehaviour
 {
     [SerializeField]
-    public string itemName;
+    string itemName;
 
     [SerializeField]
-    public int amount;
+    int amount;
+    
+    [SerializeField]
+    Sprite image;
 
     InventoryController inventoryController;
     
-    [SerializeField]
-    public Sprite image;
     void Start()
     {
-        
+        inventoryController = GameObject.Find("InventoryParent").GetComponent<InventoryController>();
     }
 
-    // Update is called once per frame
-    void Update()
+
+    void OnCollisionEnter2D(Collision2D collision)
     {
-        
+        if (collision.gameObject.tag == "Player")
+        {
+            inventoryController.AddItem(itemName, amount, image);
+        }
+
     }
 }
