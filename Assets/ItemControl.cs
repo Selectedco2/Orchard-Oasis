@@ -17,7 +17,7 @@ public class ItemControl : MonoBehaviour
     
     void Start()
     {
-        inventoryController = GameObject.Find("InventoryParent").GetComponent<InventoryController>();
+        inventoryController = GameObject.Find("Inventory").GetComponent<InventoryController>();
     }
 
 
